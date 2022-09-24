@@ -302,5 +302,20 @@
         "checksum": "31d5ff80f13f0d6039cb02d42eeac8dd9db0d6a105f3e5f3a606db4f1406e937"
       }
     ]
+  },
+  "refactor-and-adjustments": {
+    "versions": [
+      {
+        "name": "refactor-and-adjustments-1.7.4",
+        "type": "LSD",
+        "description": "test description",
+        "majorVer": 1,
+        "minorVer": 7,
+        "patchVer": 4,
+        "releaseDate": "2022-09-24T22:47:07.729Z",
+        "url": "https://github.com/PachotheElf/deLight-binaries/raw/ota-binaries/development/refactor-and-adjustments-1.7.4",
+        "checksum": "6361931317c63a5549492869a0d2237d7c8c9458c8422ed3598146c720dd8748"
+      }
+    ]
   }
 }
